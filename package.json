@@ -1,5 +1,5 @@
 {
-    "name": "Puntusov Dmitriy",
+    "author": "Puntusov Dmitriy",
     "dependencies": {
         "express": "^4.14.0"
     },
